@@ -1,0 +1,11 @@
+.bgd {
+  width: 600px;
+  height: 300px;
+  border: 10px dotted teal;
+  background-image: url(https://picsum.photos/seed/picsum/200/300),
+    url(https://picsum.photos/200/300?grayscale);
+  background-repeat: no-repeat;
+  background-position: left top, right 50px top 15px;
+  background-size: auto;
+  background-origin: padding-box;
+}
